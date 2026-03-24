@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+ 
+# MLflow
+mlruns/
+mlartifacts/
+ 
+# Spark temp files
+derby.log
+metastore_db/
+ 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ 
+# VS Code
+.vscode/
+ 
+# Environment variables
+.env
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
